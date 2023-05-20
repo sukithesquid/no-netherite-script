@@ -1,0 +1,4 @@
+on right click:
+   if target block is a smithing table
+   cancel event
+   send "&6&lYou cant created netheriete items"
